@@ -1,0 +1,6 @@
+framework module kelmoPod {
+  umbrella header "kelmoPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

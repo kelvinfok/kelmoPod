@@ -1,0 +1,16 @@
+PODS:
+  - kelmoPod (1.0.0)
+
+DEPENDENCIES:
+  - kelmoPod (from `../kelmoPod`)
+
+EXTERNAL SOURCES:
+  kelmoPod:
+    :path: "../kelmoPod"
+
+SPEC CHECKSUMS:
+  kelmoPod: de85d6774ffc89804c9430f5878cf9695136ae80
+
+PODFILE CHECKSUM: 296bfdb08027ccccbcff30b9ff329e376130ed86
+
+COCOAPODS: 1.5.0
